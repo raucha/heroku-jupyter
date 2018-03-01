@@ -20,6 +20,7 @@ dependencies:
 #  - pandas
 #  - seaborn
 #  - bokeh
-  - pip:
-    - pgcontents
+#  - pip:
+#    - pgcontents
+    - numpy
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
