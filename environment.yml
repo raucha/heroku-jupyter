@@ -23,4 +23,6 @@ dependencies:
   - pip:
 #    - pgcontents
     - numpy
+    - matplotlib
+    - pandas
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
