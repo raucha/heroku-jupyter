@@ -25,4 +25,6 @@ dependencies:
     - numpy
     - matplotlib
     - pandas
+    - seaborn
+    - bokeh
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
