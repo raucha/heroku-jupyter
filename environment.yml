@@ -14,7 +14,7 @@
  #  - pandas
  #  - seaborn
  #  - bokeh
-   - pip:
+   - conda:
      - pgcontents
      - numpy
      - matplotlib
