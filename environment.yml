@@ -22,5 +22,5 @@ dependencies:
      - pandas
      - seaborn
      - bokeh
-     - plotly
+#     - plotly
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
