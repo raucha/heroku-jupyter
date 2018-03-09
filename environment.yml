@@ -9,12 +9,7 @@
    - six
    - sqlalchemy
    - nose
- #  - numpy
- #  - matplotlib
- #  - pandas
- #  - seaborn
- #  - bokeh
-   - conda:
+   - pip:
      - pgcontents
      - numpy
      - matplotlib
